@@ -1,2 +1,2 @@
 # devopsclass
-for learning devops and create new projects
+Devops repo for learning
